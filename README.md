@@ -32,4 +32,4 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Screenshot of Password Generator
 
-![Deployed Application]()
+![Deployed Application](images/password-gen-working.png)
